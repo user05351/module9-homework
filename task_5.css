@@ -1,0 +1,12 @@
+
+.btn {
+    background-color: blue;
+    margin: 15px 15px 15px 0px;
+    padding:10px 20px;
+    color: white;
+    border: 1px solid black;
+}
+
+.btn:hover{
+    transform: scale(1.01);
+}
